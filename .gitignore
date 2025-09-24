@@ -10,3 +10,5 @@ docker-compose.yml
 /terraform/.terraform.lock.hcl
 /.idea/*
 /terraform/terraform.tfstate
+/terraform/.terraform.tfstate.lock.info
+/terraform/terraform.tfstate.backup

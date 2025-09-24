@@ -4,9 +4,9 @@ Keep the terminal running while the helper starts port-forwards.
 Prereqs: Docker (or Rancher Desktop), Minikube, kubectl, Terraform.
 
 Install:
-- Minikube: https://minikube.sigs.k8s.io/docs/start/   (brew install minikube)
-- kubectl: https://kubernetes.io/docs/tasks/tools/     (brew install kubectl)
-- Terraform: https://developer.hashicorp.com/terraform/downloads   (brew install terraform)
+- Minikube: https://minikube.sigs.k8s.io/docs/start/  ` (brew install minikube)`
+- kubectl: https://kubernetes.io/docs/tasks/tools/     `(brew install kubectl)`
+- Terraform: https://developer.hashicorp.com/terraform/downloads   `(brew install terraform)`
 - Docker Desktop: https://docs.docker.com/get-docker/
 - Rancher Desktop: https://rancherdesktop.io/
 
