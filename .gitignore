@@ -6,3 +6,7 @@ obj/
 node_modules/
 __pycache__
 docker-compose.yml
+/terraform/.terraform/providers/registry.terraform.io/hashicorp/kubernetes/2.23.0/darwin_arm64/terraform-provider-kubernetes_v2.23.0_x5
+/terraform/.terraform.lock.hcl
+/.idea/*
+/terraform/terraform.tfstate
